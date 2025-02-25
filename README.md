@@ -1,3 +1,3 @@
 # 💤 LazyVim
 
-salad's template for [LazyVim](https://github.com/LazyVim/LazyVim).
+my template for [LazyVim](https://github.com/LazyVim/LazyVim).
