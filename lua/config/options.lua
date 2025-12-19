@@ -5,3 +5,7 @@ vim.opt.tabstop = 2
 vim.opt.shiftwidth = 2
 vim.opt.expandtab = true
 vim.opt.laststatus = 0
+-- vim.opt.fillchars:append({ eob = "~" })
+vim.opt.signcolumn = "no"
+vim.opt.foldcolumn = "0"
+vim.opt.list = false
